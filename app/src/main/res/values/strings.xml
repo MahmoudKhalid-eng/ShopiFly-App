@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ShopiFly</string>
+    <string name="lap1">Dell Inspiron</string>
+    <string name="lap2">Samsung</string>
+    <string name="lap3">Asus</string>
+    <string name="lap4">Hp</string>
+    <string name="lap5">Macbook</string>
+    <string name="lap1price">5000 $</string>
+    <string name="lap2price">8000 $</string>
+    <string name="lap3price">2000 $</string>
+    <string name="lap4price">4000 $</string>
+    <string name="lap5price">18000 $</string>
+
+    <string name="mob1">Xiaomi</string>
+    <string name="mob2">Sony</string>
+    <string name="mob3">Samsung</string>
+    <string name="mob4">Iphone</string>
+    <string name="mob5">Huawei</string>
+    <string name="mob1price">3000 $</string>
+    <string name="mob2price">2000 $</string>
+    <string name="mob3price">8000 $</string>
+    <string name="mob4price">10000 $</string>
+    <string name="mob5price">2500 $</string>
+
+    <string name="cam1">Pentax</string>
+    <string name="cam2">Canon</string>
+    <string name="cam3">Nikon</string>
+    <string name="cam4">Fuji</string>
+    <string name="cam5">Sony</string>
+    <string name="cam1price">8000 $</string>
+    <string name="cam2price">7500 $</string>
+    <string name="cam3price">9500 $</string>
+    <string name="cam4price">2500 $</string>
+    <string name="cam5price">3500 $</string>
+</resources>
